@@ -1,0 +1,17 @@
+<mod name="ZeroUI" global_key="ZeroUI">
+   <Classes directory="Classes">
+   </Classes>
+   <AssetUpdates id="-1" version="1" provider="modworkshop" use_local_dir="true" use_local_path="true"/>
+   <Localization directory="Loc" default="EN.txt">
+      <loc file="EN.txt" language="english" />
+      <loc file="RU.txt" language="russian" />
+   </Localization>
+   <Hooks directory="Hooks">
+
+   </Hooks>
+   <Options build_menu="false" auto_load="true" save_file="ZeroUIConfig.txt">
+      <options>
+
+      </options>
+   </Options>
+</mod>
